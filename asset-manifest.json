@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cricket-score/static/css/main.801cf490.chunk.css",
+    "main.js": "/cricket-score/static/js/main.d23d43da.chunk.js",
+    "main.js.map": "/cricket-score/static/js/main.d23d43da.chunk.js.map",
+    "runtime-main.js": "/cricket-score/static/js/runtime-main.cea33f93.js",
+    "runtime-main.js.map": "/cricket-score/static/js/runtime-main.cea33f93.js.map",
+    "static/js/2.61243a6d.chunk.js": "/cricket-score/static/js/2.61243a6d.chunk.js",
+    "static/js/2.61243a6d.chunk.js.map": "/cricket-score/static/js/2.61243a6d.chunk.js.map",
+    "index.html": "/cricket-score/index.html",
+    "static/css/main.801cf490.chunk.css.map": "/cricket-score/static/css/main.801cf490.chunk.css.map",
+    "static/js/2.61243a6d.chunk.js.LICENSE.txt": "/cricket-score/static/js/2.61243a6d.chunk.js.LICENSE.txt",
+    "static/media/vs.png": "/cricket-score/static/media/vs.7419083b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea33f93.js",
+    "static/js/2.61243a6d.chunk.js",
+    "static/css/main.801cf490.chunk.css",
+    "static/js/main.d23d43da.chunk.js"
+  ]
+}
